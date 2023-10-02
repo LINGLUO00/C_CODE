@@ -1,0 +1,4 @@
+﻿  2023_9_30.c
+D:\code(visual_studio)\HYLuniversity\2023_9_30\2023_9_30.c(257,26): warning C4311: “类型强制转换”: 从“int [4]”到“int”的指针截断
+D:\code(visual_studio)\HYLuniversity\2023_9_30\2023_9_30.c(257,30): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+  2023_9_30.vcxproj -> D:\code(visual_studio)\HYLuniversity\2023_9_30\x64\Debug\2023_9_30.exe
