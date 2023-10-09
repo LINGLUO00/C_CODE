@@ -1,0 +1,3 @@
+﻿  queue.c
+D:\code(visual_studio)\HYLuniversity\queue\queue.c(55,2): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+  queue.vcxproj -> D:\code(visual_studio)\HYLuniversity\queue\x64\Debug\queue.exe

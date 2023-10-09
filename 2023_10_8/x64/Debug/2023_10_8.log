@@ -1,0 +1,5 @@
+﻿  stack.c
+  text.c
+D:\code(visual_studio)\HYLuniversity\2023_10_8\text.c(16,10): warning C4013: “STEmpty”未定义；假设外部返回 int
+  正在生成代码...
+  2023_10_8.vcxproj -> D:\code(visual_studio)\HYLuniversity\2023_10_8\x64\Debug\2023_10_8.exe

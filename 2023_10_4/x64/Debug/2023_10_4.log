@@ -1,0 +1,6 @@
+﻿  text.c
+D:\code(visual_studio)\HYLuniversity\2023_10_4\text.c(12,13): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+D:\code(visual_studio)\HYLuniversity\2023_10_4\text.c(12,13): warning C4024: “SLPushBack”: 形参和实参 1 的类型不同
+D:\code(visual_studio)\HYLuniversity\2023_10_4\text.c(13,13): warning C4047: “函数”:“SLTNode *”与“SLTNode **”的间接级别不同
+D:\code(visual_studio)\HYLuniversity\2023_10_4\text.c(13,13): warning C4024: “SLPushBack”: 形参和实参 1 的类型不同
+  2023_10_4.vcxproj -> D:\code(visual_studio)\HYLuniversity\2023_10_4\x64\Debug\2023_10_4.exe
